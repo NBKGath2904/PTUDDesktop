@@ -11,3 +11,17 @@ Z:\2411861_CTK48B\BaiThucHanhBuoi1\BaiTapThietKeForm\obj\Debug\BaiTapThietKeForm
 Z:\2411861_CTK48B\BaiThucHanhBuoi1\BaiTapThietKeForm\obj\Debug\BaiTapThietKeForm.pdb
 Z:\2411861_CTK48B\BaiThucHanhBuoi1\BaiTapThietKeForm\obj\Debug\BaiTapThietKeForm.frmBai2.resources
 Z:\2411861_CTK48B\BaiThucHanhBuoi1\BaiTapThietKeForm\obj\Debug\BaiTapThietKeForm.frmBai3.resources
+D:\Test\PTUDDesktop-main\BaiThucHanhBuoi1\BaiTapThietKeForm\bin\Debug\BaiTapThietKeForm.exe.config
+D:\Test\PTUDDesktop-main\BaiThucHanhBuoi1\BaiTapThietKeForm\bin\Debug\BaiTapThietKeForm.exe
+D:\Test\PTUDDesktop-main\BaiThucHanhBuoi1\BaiTapThietKeForm\bin\Debug\BaiTapThietKeForm.pdb
+D:\Test\PTUDDesktop-main\BaiThucHanhBuoi1\BaiTapThietKeForm\obj\Debug\BaiTapThietKeForm.csproj.AssemblyReference.cache
+D:\Test\PTUDDesktop-main\BaiThucHanhBuoi1\BaiTapThietKeForm\obj\Debug\BaiTapThietKeForm.frmBai1.resources
+D:\Test\PTUDDesktop-main\BaiThucHanhBuoi1\BaiTapThietKeForm\obj\Debug\BaiTapThietKeForm.frmBai2.resources
+D:\Test\PTUDDesktop-main\BaiThucHanhBuoi1\BaiTapThietKeForm\obj\Debug\BaiTapThietKeForm.frmBai3.resources
+D:\Test\PTUDDesktop-main\BaiThucHanhBuoi1\BaiTapThietKeForm\obj\Debug\BaiTapThietKeForm.frmChinh.resources
+D:\Test\PTUDDesktop-main\BaiThucHanhBuoi1\BaiTapThietKeForm\obj\Debug\BaiTapThietKeForm.Properties.Resources.resources
+D:\Test\PTUDDesktop-main\BaiThucHanhBuoi1\BaiTapThietKeForm\obj\Debug\BaiTapThietKeForm.csproj.GenerateResource.cache
+D:\Test\PTUDDesktop-main\BaiThucHanhBuoi1\BaiTapThietKeForm\obj\Debug\BaiTapThietKeForm.csproj.CoreCompileInputs.cache
+D:\Test\PTUDDesktop-main\BaiThucHanhBuoi1\BaiTapThietKeForm\obj\Debug\BaiTapThietKeForm.exe
+D:\Test\PTUDDesktop-main\BaiThucHanhBuoi1\BaiTapThietKeForm\obj\Debug\BaiTapThietKeForm.pdb
+D:\Test\PTUDDesktop-main\BaiThucHanhBuoi1\BaiTapThietKeForm\obj\Debug\BaiTapThietKeForm.frmBai4.resources

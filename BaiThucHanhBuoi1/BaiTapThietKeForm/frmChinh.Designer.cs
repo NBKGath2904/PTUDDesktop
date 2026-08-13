@@ -34,16 +34,18 @@
             this.tsmiBai1 = new System.Windows.Forms.ToolStripMenuItem();
             this.tsmiBai2 = new System.Windows.Forms.ToolStripMenuItem();
             this.tsmiBai3 = new System.Windows.Forms.ToolStripMenuItem();
+            this.tsmiBai4 = new System.Windows.Forms.ToolStripMenuItem();
             this.menuStrip1.SuspendLayout();
             this.SuspendLayout();
             // 
             // menuStrip1
             // 
+            this.menuStrip1.ImageScalingSize = new System.Drawing.Size(20, 20);
             this.menuStrip1.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.họTênCủaSinhViênToolStripMenuItem});
             this.menuStrip1.Location = new System.Drawing.Point(0, 0);
             this.menuStrip1.Name = "menuStrip1";
-            this.menuStrip1.Size = new System.Drawing.Size(800, 24);
+            this.menuStrip1.Size = new System.Drawing.Size(1067, 28);
             this.menuStrip1.TabIndex = 0;
             this.menuStrip1.Text = "menuStrip1";
             // 
@@ -52,9 +54,10 @@
             this.họTênCủaSinhViênToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.tsmiBai1,
             this.tsmiBai2,
-            this.tsmiBai3});
+            this.tsmiBai3,
+            this.tsmiBai4});
             this.họTênCủaSinhViênToolStripMenuItem.Name = "họTênCủaSinhViênToolStripMenuItem";
-            this.họTênCủaSinhViênToolStripMenuItem.Size = new System.Drawing.Size(95, 20);
+            this.họTênCủaSinhViênToolStripMenuItem.Size = new System.Drawing.Size(118, 24);
             this.họTênCủaSinhViênToolStripMenuItem.Text = "Ninh Bảo Khôi";
             this.họTênCủaSinhViênToolStripMenuItem.Click += new System.EventHandler(this.họTênCủaSinhViênToolStripMenuItem_Click);
             // 
@@ -62,7 +65,7 @@
             // 
             this.tsmiBai1.Image = ((System.Drawing.Image)(resources.GetObject("tsmiBai1.Image")));
             this.tsmiBai1.Name = "tsmiBai1";
-            this.tsmiBai1.Size = new System.Drawing.Size(180, 22);
+            this.tsmiBai1.Size = new System.Drawing.Size(224, 26);
             this.tsmiBai1.Text = "Bài 1";
             this.tsmiBai1.Click += new System.EventHandler(this.tsmiBai1_Click);
             // 
@@ -70,7 +73,7 @@
             // 
             this.tsmiBai2.Image = ((System.Drawing.Image)(resources.GetObject("tsmiBai2.Image")));
             this.tsmiBai2.Name = "tsmiBai2";
-            this.tsmiBai2.Size = new System.Drawing.Size(180, 22);
+            this.tsmiBai2.Size = new System.Drawing.Size(224, 26);
             this.tsmiBai2.Text = "Bài 2";
             this.tsmiBai2.Click += new System.EventHandler(this.tsmiBai2_Click);
             // 
@@ -78,19 +81,28 @@
             // 
             this.tsmiBai3.Image = ((System.Drawing.Image)(resources.GetObject("tsmiBai3.Image")));
             this.tsmiBai3.Name = "tsmiBai3";
-            this.tsmiBai3.Size = new System.Drawing.Size(180, 22);
+            this.tsmiBai3.Size = new System.Drawing.Size(224, 26);
             this.tsmiBai3.Text = "Bài 3";
             this.tsmiBai3.Click += new System.EventHandler(this.tsmiBai3_Click);
             // 
+            // tsmiBai4
+            // 
+            this.tsmiBai4.Name = "tsmiBai4";
+            this.tsmiBai4.Size = new System.Drawing.Size(224, 26);
+            this.tsmiBai4.Text = "Bài 4";
+            this.tsmiBai4.Click += new System.EventHandler(this.tsmiBai4_Click);
+            // 
             // frmChinh
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 450);
+            this.ClientSize = new System.Drawing.Size(1067, 554);
             this.Controls.Add(this.menuStrip1);
             this.MainMenuStrip = this.menuStrip1;
+            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.Name = "frmChinh";
             this.Text = "Chương trình chính";
+            this.Load += new System.EventHandler(this.frmChinh_Load);
             this.menuStrip1.ResumeLayout(false);
             this.menuStrip1.PerformLayout();
             this.ResumeLayout(false);
@@ -105,6 +117,7 @@
         private System.Windows.Forms.ToolStripMenuItem tsmiBai1;
         private System.Windows.Forms.ToolStripMenuItem tsmiBai2;
         private System.Windows.Forms.ToolStripMenuItem tsmiBai3;
+        private System.Windows.Forms.ToolStripMenuItem tsmiBai4;
     }
 }
 
