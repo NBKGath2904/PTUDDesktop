@@ -1,0 +1,11 @@
+D:\Test\MyForm\Lap2_Bai3\bin\Debug\Lap2_Bai3.exe.config
+D:\Test\MyForm\Lap2_Bai3\bin\Debug\Lap2_Bai3.exe
+D:\Test\MyForm\Lap2_Bai3\bin\Debug\Lap2_Bai3.pdb
+D:\Test\MyForm\Lap2_Bai3\obj\Debug\Lap2_Bai3.csproj.AssemblyReference.cache
+D:\Test\MyForm\Lap2_Bai3\obj\Debug\Lap2_Bai3.frmSinhVien.resources
+D:\Test\MyForm\Lap2_Bai3\obj\Debug\Lap2_Bai3.Properties.Resources.resources
+D:\Test\MyForm\Lap2_Bai3\obj\Debug\Lap2_Bai3.csproj.GenerateResource.cache
+D:\Test\MyForm\Lap2_Bai3\obj\Debug\Lap2_Bai3.csproj.CoreCompileInputs.cache
+D:\Test\MyForm\Lap2_Bai3\obj\Debug\Lap2_Bai3.exe
+D:\Test\MyForm\Lap2_Bai3\obj\Debug\Lap2_Bai3.pdb
+D:\Test\MyForm\Lap2_Bai3\bin\Debug\DanhSachSV.txt

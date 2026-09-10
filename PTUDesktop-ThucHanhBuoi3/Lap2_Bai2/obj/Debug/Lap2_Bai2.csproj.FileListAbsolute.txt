@@ -1,0 +1,11 @@
+D:\Test\MyForm\Lap2_Bai2\obj\Debug\Lap2_Bai2.csproj.AssemblyReference.cache
+D:\Test\MyForm\Lap2_Bai2\obj\Debug\Lap2_Bai2.frmGiangVien.resources
+D:\Test\MyForm\Lap2_Bai2\obj\Debug\MyForm.frmTBGiangVien.resources
+D:\Test\MyForm\Lap2_Bai2\obj\Debug\Lap2_Bai2.Properties.Resources.resources
+D:\Test\MyForm\Lap2_Bai2\obj\Debug\Lap2_Bai2.csproj.GenerateResource.cache
+D:\Test\MyForm\Lap2_Bai2\obj\Debug\Lap2_Bai2.csproj.CoreCompileInputs.cache
+D:\Test\MyForm\Lap2_Bai2\bin\Debug\Lap2_Bai2.exe.config
+D:\Test\MyForm\Lap2_Bai2\bin\Debug\Lap2_Bai2.exe
+D:\Test\MyForm\Lap2_Bai2\bin\Debug\Lap2_Bai2.pdb
+D:\Test\MyForm\Lap2_Bai2\obj\Debug\Lap2_Bai2.exe
+D:\Test\MyForm\Lap2_Bai2\obj\Debug\Lap2_Bai2.pdb

@@ -1,0 +1,10 @@
+D:\Test\MyForm\MyForm\bin\Debug\MyForm.exe.config
+D:\Test\MyForm\MyForm\bin\Debug\MyForm.exe
+D:\Test\MyForm\MyForm\bin\Debug\MyForm.pdb
+D:\Test\MyForm\MyForm\obj\Debug\Lap2_Bai1.csproj.AssemblyReference.cache
+D:\Test\MyForm\MyForm\obj\Debug\MyForm.frmTrungTam.resources
+D:\Test\MyForm\MyForm\obj\Debug\MyForm.Properties.Resources.resources
+D:\Test\MyForm\MyForm\obj\Debug\Lap2_Bai1.csproj.GenerateResource.cache
+D:\Test\MyForm\MyForm\obj\Debug\Lap2_Bai1.csproj.CoreCompileInputs.cache
+D:\Test\MyForm\MyForm\obj\Debug\MyForm.exe
+D:\Test\MyForm\MyForm\obj\Debug\MyForm.pdb
